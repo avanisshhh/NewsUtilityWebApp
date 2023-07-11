@@ -17,3 +17,5 @@ Install the dependencies by running npm install.
 Run the app by running ng serve.
 The app will be available at http://localhost:4200.
 
+<img width="1440" alt="Screenshot 2023-07-11 at 2 12 31 PM" src="https://github.com/avanisshhh/NewsUtilityWebApp/assets/92089520/fa0b604a-b256-4409-b790-50e27390d990">
+
